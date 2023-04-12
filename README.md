@@ -1,4 +1,4 @@
-# LIVE News App in Next.js 13
+# Tailwind Prisma Postgresql Typescript in Next.js 13
 
 
 >This project get from [developedbyed](https://www.youtube.com/@developedbyed) YouTube channel
